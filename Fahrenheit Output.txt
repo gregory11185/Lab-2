@@ -1,0 +1,16 @@
+run:
+The temperature in Fahrenheit: 85.0 is equal to 29.444444444444446 in celsius
+The temperature in Fahrenheit: 56.0 is equal to 13.333333333333334 in celsius
+The temperature in Fahrenheit: 72.0 is equal to 22.22222222222222 in celsius
+The temperature in Fahrenheit: 98.0 is equal to 36.66666666666667 in celsius
+The temperature in Fahrenheit: 32.0 is equal to 0.0 in celsius
+The temperature in Fahrenheit: 67.0 is equal to 19.444444444444446 in celsius
+The temperature in Fahrenheit: 45.0 is equal to 7.222222222222222 in celsius
+The temperature in celsius: 29.444444444444446 is equal to 85.0 in Fahrenheit
+The temperature in celsius: 13.333333333333334 is equal to 56.0 in Fahrenheit
+The temperature in celsius: 22.22222222222222 is equal to 72.0 in Fahrenheit
+The temperature in celsius: 36.66666666666667 is equal to 98.00000000000001 in Fahrenheit
+The temperature in celsius: 0.0 is equal to 32.0 in Fahrenheit
+The temperature in celsius: 19.444444444444446 is equal to 67.0 in Fahrenheit
+The temperature in celsius: 7.222222222222222 is equal to 45.0 in Fahrenheit
+BUILD SUCCESSFUL (total time: 0 seconds)
