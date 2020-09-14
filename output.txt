@@ -1,0 +1,15 @@
+1	 Gregory Eganovi
+2	 Cookie Monster
+3	 Kenny G
+4	 Stephano Dimera
+5	 Whoopi Goldberg
+6	 Riki Lake
+7	 Diana Troi
+8	 Baby Bop
+9	 Oprah Winfry
+10	 Paul Reiser
+11	 Bruce Springsteen
+12	 Lt. Whorf
+13	 Rosanne Barr
+14	 Big Bird
+15	 Erica Kane
